@@ -1,2 +1,2 @@
 # ADAMAS Protocol
-<img width="1920" height="360" alt="image" src="https://github.com/user-attachments/assets/38fc3f3e-b9c7-4b9c-89e9-809129b9a4b0" />
+<img width="1600" height="300" alt="image" src="https://github.com/user-attachments/assets/aa1cb3f6-ac66-45c4-b880-e2f6e3d4d259" />
